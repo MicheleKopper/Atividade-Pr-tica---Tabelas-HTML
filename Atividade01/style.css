@@ -1,0 +1,34 @@
+h1 {
+    font-size: 10px;
+}
+
+/* TABELA A */
+
+table {
+    border: solid;
+    border-collapse: collapse;
+    width: 250px;
+    height: 90px;
+}
+
+.linha1{
+    text-align: left;
+}
+
+.linha3{
+    text-align: right;
+}
+
+
+/* TABELA B */
+
+.linha2{
+    text-align: center;
+}
+
+
+/* TABELA C */
+
+.row{
+    text-align: center;
+}

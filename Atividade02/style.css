@@ -1,0 +1,22 @@
+h1{
+    font-size: 10px;
+}
+
+table{
+    border: solid;
+    border-collapse: collapse;
+    text-align: center;
+    width: 400px;
+}
+
+.head{
+height: 70px;
+}
+
+.body{
+    height: 200px;
+}
+
+.footer{
+    height: 50px;
+}
